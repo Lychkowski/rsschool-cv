@@ -8,7 +8,7 @@ I started learning Front-end courses at The Rolling Scopes School
 ### **Skills**:
 
 Languages:
-- [ ] English (without cerlificate)
+- [ ] English (without cerlificate); Have spoken ENG, while living in Germany in 2015
 - [x] Polish (certificate B1)
 Just getting in RS school
 -------
