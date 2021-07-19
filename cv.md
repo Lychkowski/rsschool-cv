@@ -1,2 +1,2 @@
-##**Lychkowski Sergei**
+**Lychkowski Sergei**
 -----------
